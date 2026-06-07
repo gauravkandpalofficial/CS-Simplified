@@ -192,7 +192,11 @@ Let's connect and grow together.
 
 ### LinkedIn
 
-[www.linkedin.com/in/gaurav-kandpalofficial](http://www.linkedin.com/in/gaurav-kandpalofficial)
+<p align="center">
+  <a href="https://www.linkedin.com/in/gaurav-kandpalofficial">
+    <img src="https://img.shields.io/badge/LinkedIn-Gaurav%20Kandpal-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
 
 Feel free to follow and connect with me for learning, projects, internships, and Computer Science content.
 
