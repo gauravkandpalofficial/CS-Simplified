@@ -61,9 +61,11 @@ Each subject contains:
 
 📄 Handwritten Notes
 
+📝 Enhanced Notes
+
 💻 Code Examples
 
-📝 Easy-to-Understand Explanations
+📖 Easy-to-Understand Explanations
 
 🚀 Projects and Practice Programs
 
@@ -77,7 +79,7 @@ Many repositories provide notes and code.
 
 CS-Simplified focuses on something more important:
 
-### Understanding.
+### Understanding Concepts, Not Memorizing Them.
 
 The notes available here are:
 
@@ -94,6 +96,30 @@ The notes available here are:
 These notes are not simply copied from books or generated automatically.
 
 They are created after learning, understanding, practicing, and simplifying concepts so that other students can learn them more easily.
+
+---
+
+✍ About the Notes
+
+Every topic contains two types of notes:
+
+📄 Handwritten Notes
+
+These are my original handwritten notes prepared while learning the concepts.
+
+📝 Enhanced Notes
+
+The handwritten notes are further refined and organized with the help of AI to improve:
+
+Clarity
+Formatting
+Readability
+Examples
+Presentation
+
+The purpose of using AI is not to generate random notes, but to make my self-prepared notes easier for everyone to understand.
+
+Therefore, these notes are based on my own learning journey and are enhanced to provide a better learning experience for students.
 
 ---
 
