@@ -186,4 +186,6 @@ If you find this repository useful:
 
 ---
 
-### Happy Learning and Happy Coding! 💻✨
+<h2 align="center">💙 Happy Learning and Happy Coding! 💻✨</h2>
+
+---
