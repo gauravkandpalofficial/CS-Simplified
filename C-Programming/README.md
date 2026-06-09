@@ -14,17 +14,43 @@ These notes are:
 
 ✅ Beginner Friendly
 
-✅ Written in simple language
+✅ Written in simple and easy-to-understand language
 
-✅ Easy to revise before exams
+✅ Organized topic-wise for better learning
 
-✅ Focused on concepts rather than memorization
+✅ Easy to revise before exams and interviews
 
-✅ Handwritten and self-prepared notes
+✅ Focused on understanding concepts rather than memorization
 
-These notes are **not AI-generated notes**. They are based on my own learning journey, understanding, practice, mistakes, and experience while learning C Programming.
+✅ Based on self-learning, practice, mistakes, and experience
 
-Every topic has been simplified so that even a student who has never written a single line of code can understand it comfortably.
+✅ Suitable even for students who have never written a single line of code
+
+---
+
+## ✍ About the Notes
+
+Every topic contains two types of notes:
+
+📄 Handwritten Notes
+
+These are my original handwritten notes prepared while learning C Programming. They represent my personal learning journey and understanding of the concepts.
+
+📝 Enhanced Notes
+
+Since handwriting and presentation may not always be easy for everyone to understand, I further refine and organize my handwritten notes with the help of AI to improve:
+
+Clarity
+Formatting
+Readability
+Examples
+Presentation
+
+The purpose of using AI is not to generate random notes, but to transform my self-prepared notes into a more structured and beginner-friendly format.
+
+Therefore, these notes are not simply AI-generated content. They are based on my own learning journey, understanding, practice, mistakes, and experience, and are enhanced to provide a better learning experience for everyone.
+
+Every topic has been simplified so that even a student with absolutely no programming background can start their coding journey with confidence.
 
 ---
 
@@ -138,11 +164,13 @@ Examples:
 
 Each topic contains:
 
-📄 Notes PDF
+📄 Handwritten Notes
 
-💻 C Program Examples
+📝 Enhanced Notes
 
-📖 README Explanation
+💻 Code Examples
+
+📖 Easy-to-Understand Explanations
 
 This structure helps students learn theory and practice side by side.
 
@@ -214,4 +242,8 @@ If you found this repository useful:
 
 📚 Keep learning and keep building
 
-Happy Coding! 🚀
+---
+
+<h2 align="center">💙 Happy Learning and Happy Coding! 💻✨</h2>
+
+---
